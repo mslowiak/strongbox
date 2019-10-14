@@ -307,5 +307,6 @@ For details on how the build and tests are executed in Jenkins, you can check th
 
 [strongbox-web-forms]: https://github.com/strongbox/strongbox/tree/master/strongbox-web-forms
 [JUnit 5]: ./junit-user-guide.md
+[AssertJ]: ./assertj-user-guide.md
 [Writing Web Form Tests]: ./writing-web-form-tests.md
 [Maven 2 Layout Provider]: ./layout-providers/maven-2-layout-provider.md 
